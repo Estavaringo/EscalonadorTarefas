@@ -9,7 +9,7 @@ package so;
  *
  * @author scart
  */
-public class SO {
+public class Escalonador {
 
     /**
      * @param args the command line arguments
