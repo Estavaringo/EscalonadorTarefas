@@ -9,8 +9,6 @@ package so;
  *
  * @author gabri
  */
-public class Escalonador {
+public class Processador {
     
-    public void executaProcessos(Processo processo) {
-    }
 }
